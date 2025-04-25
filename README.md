@@ -1,0 +1,1 @@
+Funciona en Ultrawide también.
